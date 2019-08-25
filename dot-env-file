@@ -1,0 +1,20 @@
+# Environment Config
+
+# YourBot@webex.bot access_token
+access_token=YourBot access_token from Webex Teams
+
+#ngrok secure tunnel address
+public_address=https://1234abcd.ngrok.io
+
+#AXL values for CUCM
+axl_username=axluser1
+axl_password=password123
+cucm_address=https://A.B.C.D:8443/axl/
+
+#SNOW values
+devInstance=dev12345
+table=x_123456_table
+snow_username=admin_user
+snow_password=admin_user_password
+
+# note: .env is a shell file so there can’t be spaces around =
