@@ -15,7 +15,7 @@ The premise for this Bot is the organization adding endpoints would connect the 
 - Cisco Unified Communications Manager (CUCM) version 11.5 is used in the Bot
 - [ngrok](https://ngrok.io) is used as a secure tunnel to connect Webex Teams to the Bot.
 - JavaScript is used for the Bot, [node.js](https://nodejs.org/en/)
-- [Botkit](https://botkit.ai/docs/v4/readme-webex.html) is the framework used in the Bot.
+- [Botkit](https://botkit.ai/docs/v4/reference/webex.html) is the framework used in the Bot.
 - .env file is used to store information used in the Bot.
 
 ### **Diagram of solution**
